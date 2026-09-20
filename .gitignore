@@ -1,0 +1,9 @@
+*.npy
+*.npz
+chips.csv
+card_numbers.json
+baseline_results.csv
+demo_cube.tif
+lab0_cube.tif
+.ipynb_checkpoints/
+__pycache__/
